@@ -28,6 +28,11 @@ poetry install
 poetry update
 ```
 
+### 3.2 shell exit
+```bash
+exit
+```
+
 ### 4. Run
 ```bash
 python3 main.py
